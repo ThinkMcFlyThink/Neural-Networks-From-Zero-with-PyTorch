@@ -1,4 +1,4 @@
-# Neural-Networks-From-Zero-with-PyTorch
+# Neural Networks From Zero with PyTorch
 
 The overarching goal for creating this repo is for a first step in learning neural networks. In partiuclar, this is done via PyTorch on Python. All tutorials are based from various existing sources (which will always be credited), but are greatly expanded with background theory and helpful explanations.
 
